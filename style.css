@@ -115,7 +115,7 @@ a.btn {
 
 /* HOME PAGE */
 .home {
-    background: url(../images/bg-home-office-studio.jpg) no-repeat center;
+    background: url(./images/bg-home-office-studio.jpg) no-repeat center;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -136,7 +136,7 @@ a.btn {
     content: "";
     display: block;
     height: 360px; /* Slightly adjusted height */
-    background: url(../images/bg-home-office-studio.jpg) center;
+    background: url(./images/bg-home-office-studio.jpg) center;
     background-size: cover;
 }
 
